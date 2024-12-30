@@ -1,4 +1,4 @@
-# Eliza
+# Eliza Agent
 
 ## Edit the character files
 
